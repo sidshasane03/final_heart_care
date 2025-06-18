@@ -1,0 +1,4 @@
+import joblib
+
+# Assuming 'rf' is your trained RandomForestClassifier model
+joblib.dump(rf, 'model/model_joblib_heart')

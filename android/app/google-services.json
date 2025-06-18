@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "704079006542",
+    "firebase_url": "https://heart-disease-prediction-66f81-default-rtdb.firebaseio.com",
+    "project_id": "heart-disease-prediction-66f81",
+    "storage_bucket": "heart-disease-prediction-66f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704079006542:android:c6c8311a56784abd476c1f",
+        "android_client_info": {
+          "package_name": "com.example.care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704079006542-mv60hoa3drp8nfafisjf6sskdpkobj84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.care",
+            "certificate_hash": "dd8488bb4414f6bc43fa96d45f64b8f4c379e131"
+          }
+        },
+        {
+          "client_id": "704079006542-qkf1pav1fpq9qcfh0an548jk2afvsemd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTA8WgfGhOwk_TEJw20bnPC97WgXuJoZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704079006542-qkf1pav1fpq9qcfh0an548jk2afvsemd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704079006542-hnsa63g09cn2opg0rvq8h6t9ftibdjmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalHeartCare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704079006542:android:18ce06026ba9d458476c1f",
+        "android_client_info": {
+          "package_name": "com.example.final_heart_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704079006542-qkf1pav1fpq9qcfh0an548jk2afvsemd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTA8WgfGhOwk_TEJw20bnPC97WgXuJoZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704079006542-qkf1pav1fpq9qcfh0an548jk2afvsemd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704079006542-hnsa63g09cn2opg0rvq8h6t9ftibdjmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalHeartCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
